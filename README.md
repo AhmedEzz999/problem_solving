@@ -1,2 +1,4 @@
 # problem_solving
-Solutions to Codewars challenges, from easy problems to beyond infinity
+This repository contains my solutions to various Codewars challenges (Katas).
+<br>
+Each solution focuses on improving problem-solving, algorithmic thinking, and clean coding practices.
