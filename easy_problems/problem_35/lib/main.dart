@@ -5,7 +5,7 @@ void main() {
 }
 
 String printerError(String string) {
-  final regex = RegExp(r'[a-m]');
+  final regex = RegExp(r'[^a-m]');
   final List errorList = regex.allMatches(string).toList();
-  return (1 - (errorList.length / string.length)).toString();
+  return '${errorList.length}/${string.length}';
 }
