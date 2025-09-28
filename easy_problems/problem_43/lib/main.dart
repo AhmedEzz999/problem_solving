@@ -1,4 +1,4 @@
-// problem link: https://www.codewars.com/kata/525e5a1cb735154b320002c8
+// problem link: https://www.codewars.com/kata/5bdc191306a8a678f6000187
 
 void main() {
   print(triangular(4)); // Output is 10
